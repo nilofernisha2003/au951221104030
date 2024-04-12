@@ -1,2 +1,3 @@
 # au951221104030
-Project 
+Voting web application using Django Framework
+
